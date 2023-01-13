@@ -1,0 +1,21 @@
+{
+    "name": "kivibot-plugin-rascal",
+    "version": "0.0.0",
+    "description": "越权测试, 命令: #test",
+    "main": "index.js",
+    "scripts": {
+        "test": "index.js"
+    },
+    "keywords": [
+        "node.js",
+        "javascript",
+        "kivi",
+        "kivibot"
+    ],
+    "author": "爱喝牛奶の涛哥",
+    "license": "AGPL-3.0-or-later",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhuhansan666/kivibot-plugin-rascal.git"
+    }
+}
